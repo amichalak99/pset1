@@ -7,7 +7,7 @@ Fill in your personal information, stage the changes, and commit with a meaningf
 
 * LSE ID: 201881808
 
-* LSE email address: agata.michalak99@gmail.com
+* LSE email address: a.michalak@lse.ac.uk
 
 * Programme: MSc Applied Social Data Science
 
